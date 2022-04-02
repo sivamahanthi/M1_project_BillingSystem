@@ -5,4 +5,5 @@ Linux
 Git certificate
 ![Screenshot (6)](https://user-images.githubusercontent.com/102345521/161369973-46371d75-dd4f-459c-906a-cf9d0b41fab6.png)
 Hacker Earth Certificate
-![Screenshot (3)](https://user-images.githubusercontent.com/102345521/161370299-ee08467c-19bc-45fb-b834-6d395b3aad17.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/102345521/161370508-062f61fe-7cc1-427f-9dda-a76e35b71068.png)
+
