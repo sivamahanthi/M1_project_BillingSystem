@@ -1,9 +1,8 @@
 C certificate
-![Screenshot (4)](https://user-images.githubusercontent.com/102345521/161369894-13b0dc10-af6b-49f4-9328-c93c7ea1faf3.png)
+![Screenshot (7)](https://user-images.githubusercontent.com/102345521/161370584-827ff30e-eb6c-4c04-a307-4c7f8ba6b7eb.png)
 Linux
-![Screenshot (5)](https://user-images.githubusercontent.com/102345521/161369932-9db843ff-6eee-4ed8-b564-9e9b95686f2a.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/102345521/161370810-94cbf537-4e0c-4b82-a975-ba772af626ec.png)
 Git certificate
-![Screenshot (6)](https://user-images.githubusercontent.com/102345521/161369973-46371d75-dd4f-459c-906a-cf9d0b41fab6.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/102345521/161370658-073a9c1c-fbdd-448b-829c-99d276014624.png)
 Hacker Earth Certificate
-![Screenshot (3)](https://user-images.githubusercontent.com/102345521/161370508-062f61fe-7cc1-427f-9dda-a76e35b71068.png)
-
+![Screenshot (10)](https://user-images.githubusercontent.com/102345521/161370759-7d8b7725-f82f-481c-9e20-7b2fa8da5501.png)
