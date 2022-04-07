@@ -7,7 +7,7 @@ Tea and Tea stall are highly close to indians. our day will not start without te
 2. Tax Calculations
 3. Name of Customer & cashier
 4. Bill Generation
-## Introduction
+
 
 
 
